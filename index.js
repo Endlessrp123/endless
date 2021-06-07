@@ -24,7 +24,7 @@ for(const file of commandFiles){
  
 client.once('ready', () => {
     console.log('Spreman sam za posao!');
-    client.user.setActivity('Ovo ti je ko game activity stavi sta ti oces')
+    client.user.setActivity('Aca')
     memberCounter(client)
 });
  
